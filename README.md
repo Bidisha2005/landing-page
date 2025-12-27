@@ -1,8 +1,9 @@
+``
 cd figma ui
 
 npm install
-
-Backend
+``
+# Backend
 
 cd server
 
@@ -10,7 +11,7 @@ node server.js
 
 Running on localhost-5000
 
-Frontend
+# Frontend
 
 npm run dev
 
