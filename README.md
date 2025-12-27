@@ -1,8 +1,8 @@
-``
+
 cd figma ui
 
 npm install
-``
+---
 # Backend
 
 cd server
