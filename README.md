@@ -1,4 +1,5 @@
-cd figma ui
+# cd figma ui
+
 npm install
 
 Backend
