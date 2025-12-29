@@ -7,7 +7,7 @@ npm install
 
 cd server 
 
-node server.js
+node server.js 
 
 Running on localhost-5000
 
