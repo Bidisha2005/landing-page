@@ -9,7 +9,7 @@ cd server
 
 node server.js 
 
-Running on localhost-5000
+Running on localhost-5000 
 
 # Frontend
 
