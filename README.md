@@ -5,7 +5,7 @@ npm install
 
 # Backend
 
-cd server
+cd server 
 
 node server.js
 
